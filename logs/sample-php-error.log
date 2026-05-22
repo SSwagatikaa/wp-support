@@ -1,0 +1,3 @@
+PHP Fatal error: Uncaught Error:
+Call to undefined function wc_get_orders()
+in /plugins/custom-checkout/functions.php
